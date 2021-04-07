@@ -1,2 +1,3 @@
 # my_library
-My book for study
+My books for study of programming
+most it is python but i like java/kotlin too
